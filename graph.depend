@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1671374501 source:/home/nasiuduk/Documents/TP/graph/main.cpp
+	<iostream>
+	"graph.h"
+
+1671374286 /home/nasiuduk/Documents/TP/graph/graph.h
+	<cstddef>
+	<iostream>
+
+1671374395 source:/home/nasiuduk/Documents/TP/graph/graph.cpp
+	"graph.h"
+	<iostream>
+
